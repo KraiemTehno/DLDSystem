@@ -1,0 +1,8 @@
+C:\inetpub\test — копия\test\obj\x86\Debug\test.AddUser.resources
+C:\inetpub\test — копия\test\obj\x86\Debug\test.Analize.resources
+C:\inetpub\test — копия\test\obj\x86\Debug\test.Form1.resources
+C:\inetpub\test — копия\test\obj\x86\Debug\test.SelectUser.resources
+C:\inetpub\test — копия\test\obj\x86\Debug\test.SplashForm.resources
+C:\inetpub\test — копия\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\inetpub\test — копия\test\obj\x86\Debug\test.Users.resources
+C:\inetpub\test — копия\test\obj\x86\Debug\test.csproj.GenerateResource.cache

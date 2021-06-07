@@ -1,0 +1,1 @@
+C:\inetpub\test — копия\DLDApi\obj\x86\Debug\DLD.Api.csprojAssemblyReference.cache
